@@ -1,0 +1,78 @@
+**Report on Global Market Slowdown in 2022: A Comparative Analysis of Five Indices**
+
+**Introduction**  
+The year 2022 witnessed a significant global economic slowdown driven by geopolitical tensions, inflationary pressures, and tightening monetary policies. This report analyzes the performance of five major stock indices—Nifty 50 (India), Sensex (India), IBEX 35 (Spain), OMXS 30 (Sweden), and ATX (Austria)—using normalized performance data, drawdown patterns, and relative performance metrics. The focus is on interpreting the provided figures to explain why some indices fell more sharply than others during this period.
+
+---
+
+### **1. Overall Performance Trends (Figure 1 & Figure 2)**
+
+All indices were normalized to a base of 100 as of January 2022. The data reveals a clear divergence in performance:
+
+- **Indian Indices (Nifty 50 and Sensex)** showed relative resilience, ending the period slightly above or near their starting levels.
+- **European Indices (IBEX 35, OMXS 30, ATX)** generally underperformed, with ATX showing the weakest performance.
+- The **annotation “Ukraine War”** in Figure 1 coincides with a downturn in European indices in early 2022, suggesting a direct impact from regional geopolitical risks.
+
+**Key Observations:**
+- Nifty 50 and Sensex peaked in late 2022, reaching ~110–112.
+- IBEX 35 remained close to its starting level by early 2023.
+- OMXS 30 and ATX finished below their starting values, indicating sustained pressure.
+
+---
+
+### **2. Drawdown Analysis (Figure 3)**
+
+Figure 3 presents a drawdown heatmap, with darker red indicating deeper declines from peak levels:
+
+- **ATX** experienced the most severe drawdowns, reaching near **–30%**, reflecting significant investor pullback.
+- **OMXS 30** also faced substantial declines (~ –20 to –25%).
+- **IBEX 35** saw moderate drawdowns (~ –10 to –15%).
+- **Nifty 50 and Sensex** had the shallowest drawdowns (~ 0 to –10%), indicating greater stability.
+
+This suggests that **European markets, particularly ATX and OMXS 30, absorbed greater shock** compared to Indian markets.
+
+---
+
+### **3. Relative Performance vs. Nifty 50 (Figure 4)**
+
+Figure 4 quantifies the underperformance of each index relative to Nifty 50:
+
+- **Sensex vs. Nifty**: Minimal divergence (~ +0.5), indicating similar trajectories.
+- **IBEX 35 vs. Nifty**: Initially positive but turned negative from mid-2022, ending at **–7.0** by Jan 2023.
+- **OMXS 30 vs. Nifty**: Consistently negative, worsening to **–18.0** by Sept 2022 before recovering slightly.
+- **ATX vs. Nifty**: Sharp and sustained underperformance, reaching **–22.0** in Sept 2022.
+
+The growing negative gaps for European indices highlight their **relative vulnerability** compared to India.
+
+---
+
+### **4. Why Some Indices Fell More Than Others**
+
+**a) Geopolitical Proximity and Energy Dependence**  
+- European indices (ATX, OMXS 30, IBEX 35) were more exposed to the **Ukraine War**, given geographic proximity and reliance on Russian energy. This led to higher inflation, energy insecurity, and economic uncertainty.
+- India, being geographically distant and maintaining diversified energy imports, faced less direct impact.
+
+**b) Sectoral Composition**  
+- Indian indices are heavily weighted toward **domestic-focused sectors** (IT, pharmaceuticals, consumer goods), which were less affected by European recession fears.
+- European indices, especially ATX (Austria) and OMXS 30 (Sweden), include more **cyclical, export-oriented, and energy-sensitive industries**, which suffered during the slowdown.
+
+**c) Monetary Policy Divergence**  
+- The **Reserve Bank of India** managed inflation without extreme tightening initially, supporting market sentiment.
+- The **European Central Bank** and other European central banks raised rates aggressively to combat inflation, weighing on equity valuations.
+
+**d) Currency and Capital Flows**  
+- The Indian rupee was relatively stable compared to some European currencies, which faced depreciation pressures.
+- **Foreign institutional flows** into Indian markets remained resilient compared to outflows from European equities.
+
+---
+
+### **5. Conclusion**
+
+The global slowdown of 2022 disproportionately affected European markets, as evidenced by the severe underperformance of ATX, OMXS 30, and IBEX 35 relative to Nifty 50 and Sensex. The primary drivers were:
+
+1. **Direct exposure to the Ukraine War** and its economic repercussions.
+2. **Higher sensitivity to energy prices and inflation**.
+3. **Tighter monetary policies** in Europe compared to India.
+4. **Structural differences in index composition**, with Indian markets benefiting from domestic resilience.
+
+Indian indices demonstrated notable robustness, supported by a **strong domestic economy, favorable demographics, and lower direct geopolitical risk**. This comparative analysis underscores how regional vulnerabilities and economic structures can lead to divergent equity market performances during global stress periods.

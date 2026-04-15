@@ -1,0 +1,606 @@
+Company,Ticker,Ex-Date,Event Type,Value/Ratio
+ACS,ACS.MC,2010-01-12,Dividend/Bonus Issue,0.9
+ACS,ACS.MC,2010-07-02,Dividend/Bonus Issue,1.15
+ACS,ACS.MC,2011-02-08,Dividend/Bonus Issue,0.9
+ACS,ACS.MC,2011-07-05,Dividend/Bonus Issue,1.15
+ACS,ACS.MC,2012-02-07,Dividend/Bonus Issue,0.9
+ACS,ACS.MC,2012-07-12,Dividend/Bonus Issue,1.068
+ACS,ACS.MC,2013-07-04,Dividend/Bonus Issue,1.112
+ACS,ACS.MC,2014-01-30,Dividend/Bonus Issue,0.446
+ACS,ACS.MC,2014-07-03,Dividend/Bonus Issue,0.707
+ACS,ACS.MC,2015-01-29,Dividend/Bonus Issue,0.45
+ACS,ACS.MC,2015-07-02,Dividend/Bonus Issue,0.703
+ACS,ACS.MC,2016-01-15,Dividend/Bonus Issue,0.444
+ACS,ACS.MC,2016-06-27,Dividend/Bonus Issue,0.707
+ACS,ACS.MC,2017-01-20,Dividend/Bonus Issue,0.445
+ACS,ACS.MC,2017-06-27,Dividend/Bonus Issue,0.751
+ACS,ACS.MC,2018-01-22,Dividend/Bonus Issue,0.449
+ACS,ACS.MC,2018-06-22,Dividend/Bonus Issue,0.936
+ACS,ACS.MC,2019-01-22,Dividend/Bonus Issue,0.45
+ACS,ACS.MC,2019-06-24,Dividend/Bonus Issue,1.45
+ACS,ACS.MC,2020-02-18,Dividend/Bonus Issue,0.449
+ACS,ACS.MC,2020-06-23,Dividend/Bonus Issue,1.38
+ACS,ACS.MC,2020-07-02,Dividend/Bonus Issue,0.16
+ACS,ACS.MC,2021-01-22,Dividend/Bonus Issue,0.452
+ACS,ACS.MC,2021-06-22,Dividend/Bonus Issue,1.27
+ACS,ACS.MC,2022-01-14,Dividend/Bonus Issue,0.468
+ACS,ACS.MC,2022-07-01,Dividend/Bonus Issue,1.484
+ACS,ACS.MC,2022-08-02,Dividend/Bonus Issue,0.05
+ACS,ACS.MC,2023-01-20,Dividend/Bonus Issue,0.48
+ACS,ACS.MC,2023-07-04,Dividend/Bonus Issue,1.482
+ACS,ACS.MC,2024-01-19,Stock Split,1.0116279069767442
+ACS,ACS.MC,2024-07-02,Dividend/Bonus Issue,1.555
+ACS,ACS.MC,2025-01-21,Dividend/Bonus Issue,0.454
+ACS,ACS.MC,2025-07-01,Dividend/Bonus Issue,1.557
+ACS,ACS.MC,2026-01-21,Dividend/Bonus Issue,0.457
+Acciona,ANA.MC,2010-07-01,Dividend/Bonus Issue,1.94
+Acciona,ANA.MC,2011-01-21,Dividend/Bonus Issue,1.07
+Acciona,ANA.MC,2011-07-25,Dividend/Bonus Issue,2.03
+Acciona,ANA.MC,2012-01-20,Dividend/Bonus Issue,1.026
+Acciona,ANA.MC,2012-06-04,Dividend/Bonus Issue,1.974
+Acciona,ANA.MC,2013-01-21,Dividend/Bonus Issue,0.9
+Acciona,ANA.MC,2013-07-01,Dividend/Bonus Issue,1.75
+Acciona,ANA.MC,2015-07-02,Dividend/Bonus Issue,2.0
+Acciona,ANA.MC,2016-06-28,Dividend/Bonus Issue,2.5
+Acciona,ANA.MC,2017-06-29,Dividend/Bonus Issue,2.875
+Acciona,ANA.MC,2018-06-28,Dividend/Bonus Issue,3.0
+Acciona,ANA.MC,2019-06-27,Dividend/Bonus Issue,3.52256
+Acciona,ANA.MC,2020-06-30,Dividend/Bonus Issue,1.936536
+Acciona,ANA.MC,2021-07-05,Dividend/Bonus Issue,3.914966
+Acciona,ANA.MC,2022-07-05,Dividend/Bonus Issue,4.112648
+Acciona,ANA.MC,2023-07-04,Dividend/Bonus Issue,4.509876
+Acciona,ANA.MC,2024-07-02,Dividend/Bonus Issue,4.8884
+Acciona,ANA.MC,2025-07-08,Dividend/Bonus Issue,5.284045
+ArcelorMittal,MTS.MC,2010-02-19,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2010-05-21,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2010-08-20,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2010-11-19,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2011-02-18,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2011-05-20,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2011-08-19,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2011-11-18,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2012-02-17,Dividend/Bonus Issue,0.32292584
+ArcelorMittal,MTS.MC,2012-06-14,Dividend/Bonus Issue,0.298959
+ArcelorMittal,MTS.MC,2013-05-10,Dividend/Bonus Issue,0.34445396
+ArcelorMittal,MTS.MC,2014-05-12,Dividend/Bonus Issue,0.34445396
+ArcelorMittal,MTS.MC,2015-05-08,Dividend/Bonus Issue,0.34445396
+ArcelorMittal,MTS.MC,2017-05-18,Stock Split,0.3333333333333333
+ArcelorMittal,MTS.MC,2018-05-17,Dividend/Bonus Issue,0.084153
+ArcelorMittal,MTS.MC,2019-05-16,Dividend/Bonus Issue,0.1692
+ArcelorMittal,MTS.MC,2021-06-10,Dividend/Bonus Issue,0.245881
+ArcelorMittal,MTS.MC,2022-05-13,Dividend/Bonus Issue,0.32148
+ArcelorMittal,MTS.MC,2023-05-22,Dividend/Bonus Issue,0.18612
+ArcelorMittal,MTS.MC,2023-11-13,Dividend/Bonus Issue,0.18612
+ArcelorMittal,MTS.MC,2024-05-16,Dividend/Bonus Issue,0.2115
+ArcelorMittal,MTS.MC,2024-11-11,Dividend/Bonus Issue,0.2115
+ArcelorMittal,MTS.MC,2025-05-15,Dividend/Bonus Issue,0.23265001
+ArcelorMittal,MTS.MC,2025-11-12,Dividend/Bonus Issue,0.23265001
+BBVA,BBVA.MC,2010-04-12,Dividend/Bonus Issue,0.144112
+BBVA,BBVA.MC,2010-07-12,Dividend/Bonus Issue,0.086467
+BBVA,BBVA.MC,2010-10-11,Dividend/Bonus Issue,0.086467
+BBVA,BBVA.MC,2011-01-10,Dividend/Bonus Issue,0.09
+BBVA,BBVA.MC,2011-04-01,Dividend/Bonus Issue,0.15
+BBVA,BBVA.MC,2011-07-08,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2011-09-30,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2012-01-10,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2012-04-16,Dividend/Bonus Issue,0.118
+BBVA,BBVA.MC,2012-07-10,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2012-10-01,Dividend/Bonus Issue,0.099
+BBVA,BBVA.MC,2013-01-10,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2013-04-08,Dividend/Bonus Issue,0.121
+BBVA,BBVA.MC,2013-07-10,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2013-09-30,Dividend/Bonus Issue,0.099
+BBVA,BBVA.MC,2014-03-31,Dividend/Bonus Issue,0.168
+BBVA,BBVA.MC,2014-07-10,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2014-09-29,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2014-12-22,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2015-03-30,Dividend/Bonus Issue,0.13
+BBVA,BBVA.MC,2015-07-16,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2015-10-05,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2016-01-12,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2016-04-05,Dividend/Bonus Issue,0.129
+BBVA,BBVA.MC,2016-07-06,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2016-10-03,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2017-01-10,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2017-04-03,Dividend/Bonus Issue,0.131
+BBVA,BBVA.MC,2017-10-06,Dividend/Bonus Issue,0.09
+BBVA,BBVA.MC,2018-04-06,Dividend/Bonus Issue,0.15
+BBVA,BBVA.MC,2018-10-08,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2019-04-08,Dividend/Bonus Issue,0.16
+BBVA,BBVA.MC,2019-10-11,Dividend/Bonus Issue,0.1
+BBVA,BBVA.MC,2020-04-07,Dividend/Bonus Issue,0.16
+BBVA,BBVA.MC,2021-04-27,Dividend/Bonus Issue,0.059
+BBVA,BBVA.MC,2021-10-08,Dividend/Bonus Issue,0.08
+BBVA,BBVA.MC,2022-04-06,Dividend/Bonus Issue,0.23
+BBVA,BBVA.MC,2022-10-07,Dividend/Bonus Issue,0.12
+BBVA,BBVA.MC,2023-04-03,Dividend/Bonus Issue,0.31
+BBVA,BBVA.MC,2023-10-09,Dividend/Bonus Issue,0.16
+BBVA,BBVA.MC,2024-04-08,Dividend/Bonus Issue,0.39
+BBVA,BBVA.MC,2024-10-08,Dividend/Bonus Issue,0.29
+BBVA,BBVA.MC,2025-04-08,Dividend/Bonus Issue,0.41
+BBVA,BBVA.MC,2025-11-05,Dividend/Bonus Issue,0.32
+Banco Sabadell,SAB.MC,2010-04-23,Stock Split,1.0188679245283019
+Banco Sabadell,SAB.MC,2010-12-20,Dividend/Bonus Issue,0.054353
+Banco Sabadell,SAB.MC,2011-04-19,Dividend/Bonus Issue,0.036235
+Banco Sabadell,SAB.MC,2011-09-06,Dividend/Bonus Issue,0.030196
+Banco Sabadell,SAB.MC,2012-06-01,Stock Split,1.0355315520181922
+Banco Sabadell,SAB.MC,2012-06-08,Dividend/Bonus Issue,0.036234
+Banco Sabadell,SAB.MC,2013-03-27,Stock Split,1.0129357738826725
+Banco Sabadell,SAB.MC,2013-04-05,Dividend/Bonus Issue,0.007341
+Banco Sabadell,SAB.MC,2014-03-28,Stock Split,1.008984725965858
+Banco Sabadell,SAB.MC,2014-04-03,Dividend/Bonus Issue,0.007951
+Banco Sabadell,SAB.MC,2015-06-02,Dividend/Bonus Issue,0.037802
+Banco Sabadell,SAB.MC,2015-06-08,Stock Split,1.004275696938601
+Banco Sabadell,SAB.MC,2016-04-05,Dividend/Bonus Issue,0.046724
+Banco Sabadell,SAB.MC,2016-04-07,Stock Split,1.012012012012012
+Banco Sabadell,SAB.MC,2016-12-28,Dividend/Bonus Issue,0.019702
+Banco Sabadell,SAB.MC,2017-04-05,Dividend/Bonus Issue,0.029554
+Banco Sabadell,SAB.MC,2017-12-27,Dividend/Bonus Issue,0.019702
+Banco Sabadell,SAB.MC,2018-04-25,Dividend/Bonus Issue,0.049256
+Banco Sabadell,SAB.MC,2018-12-24,Dividend/Bonus Issue,0.019702
+Banco Sabadell,SAB.MC,2019-04-03,Dividend/Bonus Issue,0.009851
+Banco Sabadell,SAB.MC,2019-12-20,Stock Split,1.0151049005130832
+Banco Sabadell,SAB.MC,2020-04-01,Dividend/Bonus Issue,0.02
+Banco Sabadell,SAB.MC,2022-03-30,Dividend/Bonus Issue,0.03
+Banco Sabadell,SAB.MC,2022-12-28,Dividend/Bonus Issue,0.02
+Banco Sabadell,SAB.MC,2023-03-29,Dividend/Bonus Issue,0.02
+Banco Sabadell,SAB.MC,2023-12-27,Dividend/Bonus Issue,0.03
+Banco Sabadell,SAB.MC,2024-04-16,Dividend/Bonus Issue,0.03
+Banco Sabadell,SAB.MC,2024-09-27,Dividend/Bonus Issue,0.08
+Banco Sabadell,SAB.MC,2025-03-26,Dividend/Bonus Issue,0.1244
+Banco Sabadell,SAB.MC,2025-08-27,Dividend/Bonus Issue,0.07
+Banco Sabadell,SAB.MC,2025-12-23,Dividend/Bonus Issue,0.07
+Banco Santander,SAN.MC,2010-02-01,Dividend/Bonus Issue,0.114125
+Banco Santander,SAN.MC,2010-05-03,Dividend/Bonus Issue,0.205921
+Banco Santander,SAN.MC,2010-08-02,Dividend/Bonus Issue,0.125537
+Banco Santander,SAN.MC,2010-10-15,Dividend/Bonus Issue,0.110467
+Banco Santander,SAN.MC,2011-01-17,Stock Split,1.0153846153846153
+Banco Santander,SAN.MC,2011-05-02,Dividend/Bonus Issue,0.215629
+Banco Santander,SAN.MC,2011-08-01,Dividend/Bonus Issue,0.127468
+Banco Santander,SAN.MC,2011-10-17,Dividend/Bonus Issue,0.118764
+Banco Santander,SAN.MC,2012-01-16,Dividend/Bonus Issue,0.112166
+Banco Santander,SAN.MC,2012-04-13,Dividend/Bonus Issue,0.207366
+Banco Santander,SAN.MC,2012-07-13,Dividend/Bonus Issue,0.143271
+Banco Santander,SAN.MC,2012-10-17,Dividend/Bonus Issue,0.141386
+Banco Santander,SAN.MC,2013-01-15,Dividend/Bonus Issue,0.143271
+Banco Santander,SAN.MC,2013-04-12,Dividend/Bonus Issue,0.141386
+Banco Santander,SAN.MC,2013-07-15,Dividend/Bonus Issue,0.141386
+Banco Santander,SAN.MC,2013-10-16,Dividend/Bonus Issue,0.144214
+Banco Santander,SAN.MC,2014-01-15,Dividend/Bonus Issue,0.143271
+Banco Santander,SAN.MC,2014-04-09,Dividend/Bonus Issue,0.11095
+Banco Santander,SAN.MC,2014-07-15,Dividend/Bonus Issue,0.143271
+Banco Santander,SAN.MC,2014-10-20,Dividend/Bonus Issue,0.142329
+Banco Santander,SAN.MC,2015-01-14,Dividend/Bonus Issue,0.137616
+Banco Santander,SAN.MC,2015-04-14,Dividend/Bonus Issue,0.142329
+Banco Santander,SAN.MC,2015-08-03,Dividend/Bonus Issue,0.047129
+Banco Santander,SAN.MC,2015-10-20,Dividend/Bonus Issue,0.047129
+Banco Santander,SAN.MC,2016-02-01,Dividend/Bonus Issue,0.047129
+Banco Santander,SAN.MC,2016-04-28,Dividend/Bonus Issue,0.047129
+Banco Santander,SAN.MC,2016-07-27,Dividend/Bonus Issue,0.051842
+Banco Santander,SAN.MC,2016-10-18,Dividend/Bonus Issue,0.042416
+Banco Santander,SAN.MC,2017-01-30,Dividend/Bonus Issue,0.051842
+Banco Santander,SAN.MC,2017-04-27,Dividend/Bonus Issue,0.051842
+Banco Santander,SAN.MC,2017-08-02,Dividend/Bonus Issue,0.0575
+Banco Santander,SAN.MC,2017-10-18,Dividend/Bonus Issue,0.038333
+Banco Santander,SAN.MC,2018-01-30,Dividend/Bonus Issue,0.0575
+Banco Santander,SAN.MC,2018-04-27,Dividend/Bonus Issue,0.0575
+Banco Santander,SAN.MC,2018-07-30,Dividend/Bonus Issue,0.062292
+Banco Santander,SAN.MC,2018-10-18,Dividend/Bonus Issue,0.033542
+Banco Santander,SAN.MC,2019-01-30,Dividend/Bonus Issue,0.062292
+Banco Santander,SAN.MC,2019-04-29,Dividend/Bonus Issue,0.062292
+Banco Santander,SAN.MC,2019-10-30,Dividend/Bonus Issue,0.095833
+Banco Santander,SAN.MC,2020-11-16,Stock Split,1.0434782608695652
+Banco Santander,SAN.MC,2021-04-30,Dividend/Bonus Issue,0.0275
+Banco Santander,SAN.MC,2021-10-29,Dividend/Bonus Issue,0.0485
+Banco Santander,SAN.MC,2022-04-28,Dividend/Bonus Issue,0.0515
+Banco Santander,SAN.MC,2022-10-31,Dividend/Bonus Issue,0.0583
+Banco Santander,SAN.MC,2023-04-27,Dividend/Bonus Issue,0.0595
+Banco Santander,SAN.MC,2023-10-31,Dividend/Bonus Issue,0.081
+Banco Santander,SAN.MC,2024-04-29,Dividend/Bonus Issue,0.095
+Banco Santander,SAN.MC,2024-10-30,Dividend/Bonus Issue,0.1
+Banco Santander,SAN.MC,2025-04-29,Dividend/Bonus Issue,0.11
+Banco Santander,SAN.MC,2025-10-30,Dividend/Bonus Issue,0.115
+Bankinter,BKT.MC,2010-04-01,Dividend/Bonus Issue,0.05002
+Bankinter,BKT.MC,2010-07-02,Dividend/Bonus Issue,0.029719
+Bankinter,BKT.MC,2010-07-05,Dividend/Bonus Issue,0.036694
+Bankinter,BKT.MC,2010-09-29,Dividend/Bonus Issue,0.027078
+Bankinter,BKT.MC,2010-10-04,Dividend/Bonus Issue,0.03343
+Bankinter,BKT.MC,2011-01-03,Dividend/Bonus Issue,0.031058
+Bankinter,BKT.MC,2011-07-04,Dividend/Bonus Issue,0.033384
+Bankinter,BKT.MC,2011-09-09,Dividend/Bonus Issue,0.033429
+Bankinter,BKT.MC,2012-01-09,Dividend/Bonus Issue,0.031058
+Bankinter,BKT.MC,2012-04-10,Dividend/Bonus Issue,0.024767
+Bankinter,BKT.MC,2012-07-09,Dividend/Bonus Issue,0.018425
+Bankinter,BKT.MC,2012-10-15,Dividend/Bonus Issue,0.017535
+Bankinter,BKT.MC,2013-01-07,Dividend/Bonus Issue,0.017534
+Bankinter,BKT.MC,2013-04-04,Stock Split,1.5555555555555556
+Bankinter,BKT.MC,2013-04-08,Dividend/Bonus Issue,0.027272
+Bankinter,BKT.MC,2013-07-08,Dividend/Bonus Issue,0.018425
+Bankinter,BKT.MC,2013-10-07,Dividend/Bonus Issue,0.018848
+Bankinter,BKT.MC,2014-01-06,Dividend/Bonus Issue,0.022234
+Bankinter,BKT.MC,2014-04-07,Dividend/Bonus Issue,0.0014
+Bankinter,BKT.MC,2014-05-05,Dividend/Bonus Issue,0.022112
+Bankinter,BKT.MC,2014-08-04,Dividend/Bonus Issue,0.0273
+Bankinter,BKT.MC,2014-11-03,Dividend/Bonus Issue,0.0273
+Bankinter,BKT.MC,2015-03-23,Dividend/Bonus Issue,0.076814
+Bankinter,BKT.MC,2015-06-29,Dividend/Bonus Issue,0.048523
+Bankinter,BKT.MC,2015-10-05,Dividend/Bonus Issue,0.052074
+Bankinter,BKT.MC,2015-12-28,Dividend/Bonus Issue,0.052074
+Bankinter,BKT.MC,2016-03-21,Dividend/Bonus Issue,0.05649
+Bankinter,BKT.MC,2016-06-22,Dividend/Bonus Issue,0.051434
+Bankinter,BKT.MC,2016-09-23,Dividend/Bonus Issue,0.051434
+Bankinter,BKT.MC,2016-12-23,Dividend/Bonus Issue,0.051434
+Bankinter,BKT.MC,2017-03-28,Dividend/Bonus Issue,0.068228
+Bankinter,BKT.MC,2017-06-26,Dividend/Bonus Issue,0.05915
+Bankinter,BKT.MC,2017-09-25,Dividend/Bonus Issue,0.060685
+Bankinter,BKT.MC,2017-12-27,Dividend/Bonus Issue,0.061715
+Bankinter,BKT.MC,2018-03-27,Dividend/Bonus Issue,0.093941
+Bankinter,BKT.MC,2018-06-25,Dividend/Bonus Issue,0.065065
+Bankinter,BKT.MC,2018-09-24,Dividend/Bonus Issue,0.063719
+Bankinter,BKT.MC,2018-12-24,Dividend/Bonus Issue,0.064801
+Bankinter,BKT.MC,2019-03-26,Dividend/Bonus Issue,0.099274
+Bankinter,BKT.MC,2019-06-24,Dividend/Bonus Issue,0.066692
+Bankinter,BKT.MC,2019-09-23,Dividend/Bonus Issue,0.063719
+Bankinter,BKT.MC,2019-12-23,Dividend/Bonus Issue,0.06372
+Bankinter,BKT.MC,2020-03-24,Dividend/Bonus Issue,0.097647
+Bankinter,BKT.MC,2021-02-25,Dividend/Bonus Issue,0.049763
+Bankinter,BKT.MC,2021-09-29,Dividend/Bonus Issue,0.133286
+Bankinter,BKT.MC,2021-12-28,Dividend/Bonus Issue,0.051482
+Bankinter,BKT.MC,2022-03-28,Dividend/Bonus Issue,0.058578
+Bankinter,BKT.MC,2022-06-27,Dividend/Bonus Issue,0.074121
+Bankinter,BKT.MC,2022-09-26,Dividend/Bonus Issue,0.064534
+Bankinter,BKT.MC,2022-12-23,Dividend/Bonus Issue,0.083716
+Bankinter,BKT.MC,2023-03-28,Dividend/Bonus Issue,0.089315
+Bankinter,BKT.MC,2023-06-26,Dividend/Bonus Issue,0.09199
+Bankinter,BKT.MC,2023-09-25,Dividend/Bonus Issue,0.128083
+Bankinter,BKT.MC,2023-12-27,Dividend/Bonus Issue,0.142208
+Bankinter,BKT.MC,2024-03-26,Dividend/Bonus Issue,0.107742
+Bankinter,BKT.MC,2024-06-24,Dividend/Bonus Issue,0.111722
+Bankinter,BKT.MC,2024-11-28,Dividend/Bonus Issue,0.295018
+Bankinter,BKT.MC,2025-04-01,Dividend/Bonus Issue,0.123474
+Bankinter,BKT.MC,2025-06-23,Dividend/Bonus Issue,0.150298
+Bankinter,BKT.MC,2025-11-28,Dividend/Bonus Issue,0.30121
+Enagás,ENG.MC,2010-07-05,Dividend/Bonus Issue,0.466027
+Enagás,ENG.MC,2010-12-21,Dividend/Bonus Issue,0.312
+Enagás,ENG.MC,2011-07-05,Dividend/Bonus Issue,0.526123
+Enagás,ENG.MC,2011-12-21,Dividend/Bonus Issue,0.381
+Enagás,ENG.MC,2012-07-05,Dividend/Bonus Issue,0.61181
+Enagás,ENG.MC,2012-12-20,Dividend/Bonus Issue,0.428
+Enagás,ENG.MC,2013-07-03,Dividend/Bonus Issue,0.684768
+Enagás,ENG.MC,2013-12-19,Dividend/Bonus Issue,0.503
+Enagás,ENG.MC,2014-07-03,Dividend/Bonus Issue,0.763627
+Enagás,ENG.MC,2014-12-19,Dividend/Bonus Issue,0.52
+Enagás,ENG.MC,2015-07-02,Dividend/Bonus Issue,0.78
+Enagás,ENG.MC,2015-12-17,Dividend/Bonus Issue,0.528
+Enagás,ENG.MC,2016-06-30,Dividend/Bonus Issue,0.792
+Enagás,ENG.MC,2016-12-20,Dividend/Bonus Issue,0.556
+Enagás,ENG.MC,2017-07-03,Dividend/Bonus Issue,0.834
+Enagás,ENG.MC,2017-12-19,Dividend/Bonus Issue,0.584
+Enagás,ENG.MC,2018-07-03,Dividend/Bonus Issue,0.876
+Enagás,ENG.MC,2018-12-17,Dividend/Bonus Issue,0.612
+Enagás,ENG.MC,2019-07-01,Dividend/Bonus Issue,0.918
+Enagás,ENG.MC,2019-12-19,Dividend/Bonus Issue,0.64
+Enagás,ENG.MC,2020-07-07,Dividend/Bonus Issue,0.96
+Enagás,ENG.MC,2020-12-21,Dividend/Bonus Issue,0.672
+Enagás,ENG.MC,2021-07-06,Dividend/Bonus Issue,1.008
+Enagás,ENG.MC,2021-12-17,Dividend/Bonus Issue,0.68
+Enagás,ENG.MC,2022-07-05,Dividend/Bonus Issue,1.02
+Enagás,ENG.MC,2022-12-19,Dividend/Bonus Issue,0.688
+Enagás,ENG.MC,2023-07-04,Dividend/Bonus Issue,1.032
+Enagás,ENG.MC,2023-12-20,Dividend/Bonus Issue,0.696
+Enagás,ENG.MC,2024-07-02,Dividend/Bonus Issue,1.044
+Enagás,ENG.MC,2024-12-10,Dividend/Bonus Issue,0.4
+Enagás,ENG.MC,2025-12-19,Dividend/Bonus Issue,0.4
+Ferrovial,FER.MC,2010-07-01,Dividend/Bonus Issue,0.3
+Ferrovial,FER.MC,2010-11-18,Dividend/Bonus Issue,0.12
+Ferrovial,FER.MC,2011-05-19,Dividend/Bonus Issue,0.3
+Ferrovial,FER.MC,2011-11-17,Dividend/Bonus Issue,0.2
+Ferrovial,FER.MC,2012-05-24,Dividend/Bonus Issue,0.25
+Ferrovial,FER.MC,2012-12-13,Dividend/Bonus Issue,1.0
+Ferrovial,FER.MC,2013-05-23,Dividend/Bonus Issue,0.25
+Ferrovial,FER.MC,2013-12-10,Dividend/Bonus Issue,0.4
+Ferrovial,FER.MC,2014-07-02,Dividend/Bonus Issue,0.291
+Ferrovial,FER.MC,2014-11-04,Dividend/Bonus Issue,0.381
+Ferrovial,FER.MC,2015-05-06,Dividend/Bonus Issue,0.304
+Ferrovial,FER.MC,2015-11-03,Dividend/Bonus Issue,0.398
+Ferrovial,FER.MC,2016-05-27,Dividend/Bonus Issue,0.311
+Ferrovial,FER.MC,2016-10-31,Dividend/Bonus Issue,0.408
+Ferrovial,FER.MC,2017-05-09,Dividend/Bonus Issue,0.315
+Ferrovial,FER.MC,2017-10-30,Dividend/Bonus Issue,0.404
+Ferrovial,FER.MC,2018-05-17,Dividend/Bonus Issue,0.314
+Ferrovial,FER.MC,2018-11-06,Dividend/Bonus Issue,0.407
+Ferrovial,FER.MC,2019-05-14,Dividend/Bonus Issue,0.311
+Ferrovial,FER.MC,2019-11-06,Dividend/Bonus Issue,0.408
+Ferrovial,FER.MC,2020-05-14,Dividend/Bonus Issue,0.312
+Ferrovial,FER.MC,2020-11-04,Dividend/Bonus Issue,0.2
+Ferrovial,FER.MC,2021-05-13,Dividend/Bonus Issue,0.197
+Ferrovial,FER.MC,2021-11-03,Dividend/Bonus Issue,0.305
+Ferrovial,FER.MC,2022-05-11,Dividend/Bonus Issue,0.278
+Ferrovial,FER.MC,2022-11-03,Dividend/Bonus Issue,0.414
+Ferrovial,FER.MC,2023-07-05,Dividend/Bonus Issue,0.244
+Ferrovial,FER.MC,2023-10-25,Dividend/Bonus Issue,0.4276
+Ferrovial,FER.MC,2024-05-20,Dividend/Bonus Issue,0.3033
+Ferrovial,FER.MC,2024-11-06,Dividend/Bonus Issue,0.4597
+Ferrovial,FER.MC,2024-12-13,Dividend/Bonus Issue,0.0346
+Ferrovial,FER.MC,2025-05-22,Dividend/Bonus Issue,0.3182
+Ferrovial,FER.MC,2025-10-24,Dividend/Bonus Issue,0.4769
+Ferrovial,FER.MC,2025-12-04,Dividend/Bonus Issue,0.077
+Grifols,GRF.MC,2010-07-01,Dividend/Bonus Issue,0.063946
+Grifols,GRF.MC,2013-06-05,Dividend/Bonus Issue,0.1
+Grifols,GRF.MC,2014-06-05,Dividend/Bonus Issue,0.100342
+Grifols,GRF.MC,2014-12-04,Dividend/Bonus Issue,0.125722
+Grifols,GRF.MC,2015-06-08,Dividend/Bonus Issue,0.147545
+Grifols,GRF.MC,2015-12-10,Dividend/Bonus Issue,0.175
+Grifols,GRF.MC,2016-01-04,Stock Split,2.0
+Grifols,GRF.MC,2016-06-02,Dividend/Bonus Issue,0.132572
+Grifols,GRF.MC,2016-12-05,Dividend/Bonus Issue,0.18
+Grifols,GRF.MC,2017-05-30,Dividend/Bonus Issue,0.135615
+Grifols,GRF.MC,2017-12-01,Dividend/Bonus Issue,0.18
+Grifols,GRF.MC,2018-06-01,Dividend/Bonus Issue,0.203996
+Grifols,GRF.MC,2018-11-30,Dividend/Bonus Issue,0.2
+Grifols,GRF.MC,2019-06-07,Dividend/Bonus Issue,0.145143
+Grifols,GRF.MC,2019-12-02,Dividend/Bonus Issue,0.2
+Grifols,GRF.MC,2020-10-26,Dividend/Bonus Issue,0.1616
+Grifols,GRF.MC,2021-06-03,Dividend/Bonus Issue,0.364348
+Grifols,GRF.MC,2025-08-11,Dividend/Bonus Issue,0.15
+Iberdrola,IBE.MC,2010-06-14,Dividend/Bonus Issue,0.191
+Iberdrola,IBE.MC,2010-12-03,Dividend/Bonus Issue,0.146
+Iberdrola,IBE.MC,2011-07-13,Dividend/Bonus Issue,0.03
+Iberdrola,IBE.MC,2012-01-03,Dividend/Bonus Issue,0.146
+Iberdrola,IBE.MC,2012-07-04,Dividend/Bonus Issue,0.19
+Iberdrola,IBE.MC,2013-01-03,Dividend/Bonus Issue,0.143
+Iberdrola,IBE.MC,2013-07-03,Dividend/Bonus Issue,0.16
+Iberdrola,IBE.MC,2014-01-13,Dividend/Bonus Issue,0.126
+Iberdrola,IBE.MC,2014-07-03,Dividend/Bonus Issue,0.144
+Iberdrola,IBE.MC,2014-12-02,Dividend/Bonus Issue,0.127
+Iberdrola,IBE.MC,2015-07-03,Dividend/Bonus Issue,0.144
+Iberdrola,IBE.MC,2016-01-12,Dividend/Bonus Issue,0.127
+Iberdrola,IBE.MC,2016-07-05,Dividend/Bonus Issue,0.03
+Iberdrola,IBE.MC,2017-01-05,Dividend/Bonus Issue,0.135
+Iberdrola,IBE.MC,2017-07-05,Dividend/Bonus Issue,0.177
+Iberdrola,IBE.MC,2018-01-11,Dividend/Bonus Issue,0.14
+Iberdrola,IBE.MC,2018-07-09,Dividend/Bonus Issue,0.186
+Iberdrola,IBE.MC,2019-01-09,Dividend/Bonus Issue,0.151
+Iberdrola,IBE.MC,2019-07-04,Dividend/Bonus Issue,0.2
+Iberdrola,IBE.MC,2020-01-09,Dividend/Bonus Issue,0.168
+Iberdrola,IBE.MC,2020-07-08,Dividend/Bonus Issue,0.232
+Iberdrola,IBE.MC,2021-01-12,Dividend/Bonus Issue,0.168
+Iberdrola,IBE.MC,2021-07-08,Dividend/Bonus Issue,0.254
+Iberdrola,IBE.MC,2022-01-10,Dividend/Bonus Issue,0.17
+Iberdrola,IBE.MC,2022-06-09,Dividend/Bonus Issue,0.005
+Iberdrola,IBE.MC,2022-07-08,Dividend/Bonus Issue,0.274
+Iberdrola,IBE.MC,2023-01-06,Dividend/Bonus Issue,0.18
+Iberdrola,IBE.MC,2023-04-20,Dividend/Bonus Issue,0.005
+Iberdrola,IBE.MC,2023-07-07,Dividend/Bonus Issue,0.316
+Iberdrola,IBE.MC,2024-01-09,Dividend/Bonus Issue,0.202
+Iberdrola,IBE.MC,2024-05-09,Dividend/Bonus Issue,0.005
+Iberdrola,IBE.MC,2024-07-04,Dividend/Bonus Issue,0.351
+Iberdrola,IBE.MC,2025-01-10,Dividend/Bonus Issue,0.231
+Iberdrola,IBE.MC,2025-05-22,Dividend/Bonus Issue,0.005
+Iberdrola,IBE.MC,2025-07-04,Dividend/Bonus Issue,0.409
+Iberdrola,IBE.MC,2026-01-12,Stock Split,1.0136986301369864
+Inditex,ITX.MC,2010-05-03,Dividend/Bonus Issue,0.12
+Inditex,ITX.MC,2010-11-02,Dividend/Bonus Issue,0.1362
+Inditex,ITX.MC,2011-05-02,Dividend/Bonus Issue,0.16
+Inditex,ITX.MC,2011-11-02,Dividend/Bonus Issue,0.16
+Inditex,ITX.MC,2012-05-02,Dividend/Bonus Issue,0.18
+Inditex,ITX.MC,2012-11-02,Dividend/Bonus Issue,0.18
+Inditex,ITX.MC,2013-05-02,Dividend/Bonus Issue,0.22
+Inditex,ITX.MC,2013-11-04,Dividend/Bonus Issue,0.22
+Inditex,ITX.MC,2014-05-02,Dividend/Bonus Issue,0.242
+Inditex,ITX.MC,2014-07-28,Stock Split,5.0
+Inditex,ITX.MC,2014-11-03,Dividend/Bonus Issue,0.242
+Inditex,ITX.MC,2015-05-04,Dividend/Bonus Issue,0.26
+Inditex,ITX.MC,2015-11-03,Dividend/Bonus Issue,0.26
+Inditex,ITX.MC,2016-04-28,Dividend/Bonus Issue,0.3
+Inditex,ITX.MC,2016-10-31,Dividend/Bonus Issue,0.3
+Inditex,ITX.MC,2017-04-27,Dividend/Bonus Issue,0.34
+Inditex,ITX.MC,2017-10-31,Dividend/Bonus Issue,0.34
+Inditex,ITX.MC,2018-04-27,Dividend/Bonus Issue,0.375
+Inditex,ITX.MC,2018-10-31,Dividend/Bonus Issue,0.375
+Inditex,ITX.MC,2019-04-29,Dividend/Bonus Issue,0.44
+Inditex,ITX.MC,2019-10-31,Dividend/Bonus Issue,0.44
+Inditex,ITX.MC,2020-10-29,Dividend/Bonus Issue,0.7
+Inditex,ITX.MC,2021-04-29,Dividend/Bonus Issue,0.35
+Inditex,ITX.MC,2021-10-29,Dividend/Bonus Issue,0.35
+Inditex,ITX.MC,2022-04-28,Dividend/Bonus Issue,0.465
+Inditex,ITX.MC,2022-10-31,Dividend/Bonus Issue,0.465
+Inditex,ITX.MC,2023-04-27,Dividend/Bonus Issue,0.6
+Inditex,ITX.MC,2023-10-31,Dividend/Bonus Issue,0.6
+Inditex,ITX.MC,2024-04-29,Dividend/Bonus Issue,0.77
+Inditex,ITX.MC,2024-10-31,Dividend/Bonus Issue,0.77
+Inditex,ITX.MC,2025-04-29,Dividend/Bonus Issue,0.84
+Inditex,ITX.MC,2025-10-30,Dividend/Bonus Issue,0.84
+Indra Sistemas,IDR.MC,2010-07-05,Dividend/Bonus Issue,0.66
+Indra Sistemas,IDR.MC,2011-07-04,Dividend/Bonus Issue,0.68
+Indra Sistemas,IDR.MC,2012-07-04,Dividend/Bonus Issue,0.68
+Indra Sistemas,IDR.MC,2013-07-09,Dividend/Bonus Issue,0.34
+Indra Sistemas,IDR.MC,2014-07-08,Dividend/Bonus Issue,0.34
+Indra Sistemas,IDR.MC,2022-07-08,Dividend/Bonus Issue,0.15
+Indra Sistemas,IDR.MC,2023-07-10,Dividend/Bonus Issue,0.25
+Indra Sistemas,IDR.MC,2024-07-09,Dividend/Bonus Issue,0.25
+Indra Sistemas,IDR.MC,2025-07-08,Dividend/Bonus Issue,0.25
+International Airlines Group,IAG.MC,2015-12-07,Dividend/Bonus Issue,0.066298
+International Airlines Group,IAG.MC,2016-06-29,Dividend/Bonus Issue,0.066298
+International Airlines Group,IAG.MC,2016-12-01,Dividend/Bonus Issue,0.072928
+International Airlines Group,IAG.MC,2017-06-29,Dividend/Bonus Issue,0.082873
+International Airlines Group,IAG.MC,2017-11-30,Dividend/Bonus Issue,0.082873
+International Airlines Group,IAG.MC,2018-06-28,Dividend/Bonus Issue,0.096132
+International Airlines Group,IAG.MC,2018-11-29,Dividend/Bonus Issue,0.096132
+International Airlines Group,IAG.MC,2019-07-04,Dividend/Bonus Issue,0.341436
+International Airlines Group,IAG.MC,2019-11-28,Dividend/Bonus Issue,0.096132
+International Airlines Group,IAG.MC,2024-09-05,Dividend/Bonus Issue,0.03
+International Airlines Group,IAG.MC,2025-06-26,Dividend/Bonus Issue,0.06
+International Airlines Group,IAG.MC,2025-11-27,Dividend/Bonus Issue,0.048
+Mapfre,MAP.MC,2010-06-16,Dividend/Bonus Issue,0.08
+Mapfre,MAP.MC,2010-12-01,Dividend/Bonus Issue,0.07
+Mapfre,MAP.MC,2011-06-22,Dividend/Bonus Issue,0.08
+Mapfre,MAP.MC,2011-12-14,Dividend/Bonus Issue,0.07
+Mapfre,MAP.MC,2012-06-29,Dividend/Bonus Issue,0.08
+Mapfre,MAP.MC,2012-12-12,Dividend/Bonus Issue,0.04
+Mapfre,MAP.MC,2013-06-28,Dividend/Bonus Issue,0.07
+Mapfre,MAP.MC,2013-12-20,Dividend/Bonus Issue,0.05
+Mapfre,MAP.MC,2014-06-20,Dividend/Bonus Issue,0.08
+Mapfre,MAP.MC,2014-12-15,Dividend/Bonus Issue,0.06
+Mapfre,MAP.MC,2015-06-18,Dividend/Bonus Issue,0.08
+Mapfre,MAP.MC,2015-12-15,Dividend/Bonus Issue,0.06
+Mapfre,MAP.MC,2016-06-21,Dividend/Bonus Issue,0.07
+Mapfre,MAP.MC,2016-12-21,Dividend/Bonus Issue,0.0606
+Mapfre,MAP.MC,2017-06-16,Dividend/Bonus Issue,0.0859
+Mapfre,MAP.MC,2017-12-12,Dividend/Bonus Issue,0.0605
+Mapfre,MAP.MC,2018-06-12,Dividend/Bonus Issue,0.0857
+Mapfre,MAP.MC,2018-12-18,Dividend/Bonus Issue,0.0605
+Mapfre,MAP.MC,2019-06-21,Dividend/Bonus Issue,0.0857
+Mapfre,MAP.MC,2019-12-19,Dividend/Bonus Issue,0.0606
+Mapfre,MAP.MC,2020-06-23,Dividend/Bonus Issue,0.0858
+Mapfre,MAP.MC,2020-12-18,Dividend/Bonus Issue,0.0505
+Mapfre,MAP.MC,2021-05-20,Dividend/Bonus Issue,0.0757
+Mapfre,MAP.MC,2021-11-26,Dividend/Bonus Issue,0.0606
+Mapfre,MAP.MC,2022-05-27,Dividend/Bonus Issue,0.0857
+Mapfre,MAP.MC,2022-11-28,Dividend/Bonus Issue,0.0604
+Mapfre,MAP.MC,2023-05-22,Dividend/Bonus Issue,0.0855
+Mapfre,MAP.MC,2023-11-28,Dividend/Bonus Issue,0.0603
+Mapfre,MAP.MC,2024-05-22,Dividend/Bonus Issue,0.0904
+Mapfre,MAP.MC,2024-11-27,Dividend/Bonus Issue,0.065
+Mapfre,MAP.MC,2025-03-06,Dividend/Bonus Issue,0.001506
+Mapfre,MAP.MC,2025-05-27,Dividend/Bonus Issue,0.0952
+Mapfre,MAP.MC,2025-11-26,Dividend/Bonus Issue,0.070362
+Naturgy,NTGY.MC,2010-01-08,Dividend/Bonus Issue,0.352
+Naturgy,NTGY.MC,2010-07-01,Dividend/Bonus Issue,0.44
+Naturgy,NTGY.MC,2011-01-07,Dividend/Bonus Issue,0.352
+Naturgy,NTGY.MC,2011-05-31,Dividend/Bonus Issue,0.453
+Naturgy,NTGY.MC,2012-01-09,Dividend/Bonus Issue,0.363
+Naturgy,NTGY.MC,2012-05-30,Dividend/Bonus Issue,0.4653
+Naturgy,NTGY.MC,2013-01-08,Dividend/Bonus Issue,0.391
+Naturgy,NTGY.MC,2013-07-01,Dividend/Bonus Issue,0.503
+Naturgy,NTGY.MC,2014-01-08,Dividend/Bonus Issue,0.393
+Naturgy,NTGY.MC,2014-07-01,Dividend/Bonus Issue,0.504
+Naturgy,NTGY.MC,2015-01-08,Dividend/Bonus Issue,0.397
+Naturgy,NTGY.MC,2015-07-01,Dividend/Bonus Issue,0.511
+Naturgy,NTGY.MC,2016-01-08,Dividend/Bonus Issue,0.4078
+Naturgy,NTGY.MC,2016-06-27,Dividend/Bonus Issue,0.5922
+Naturgy,NTGY.MC,2016-09-22,Dividend/Bonus Issue,0.33
+Naturgy,NTGY.MC,2017-06-23,Dividend/Bonus Issue,0.67
+Naturgy,NTGY.MC,2017-09-25,Dividend/Bonus Issue,0.33
+Naturgy,NTGY.MC,2018-07-03,Dividend/Bonus Issue,0.67
+Naturgy,NTGY.MC,2018-07-27,Dividend/Bonus Issue,0.28
+Naturgy,NTGY.MC,2018-11-23,Dividend/Bonus Issue,0.45
+Naturgy,NTGY.MC,2019-03-18,Dividend/Bonus Issue,0.57
+Naturgy,NTGY.MC,2019-07-29,Dividend/Bonus Issue,0.29395
+Naturgy,NTGY.MC,2019-11-08,Dividend/Bonus Issue,0.473
+Naturgy,NTGY.MC,2020-03-23,Dividend/Bonus Issue,0.593
+Naturgy,NTGY.MC,2020-06-01,Dividend/Bonus Issue,0.01
+Naturgy,NTGY.MC,2020-07-27,Dividend/Bonus Issue,0.31
+Naturgy,NTGY.MC,2020-11-09,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2021-03-15,Dividend/Bonus Issue,0.63
+Naturgy,NTGY.MC,2021-08-02,Dividend/Bonus Issue,0.3
+Naturgy,NTGY.MC,2021-11-11,Dividend/Bonus Issue,0.4
+Naturgy,NTGY.MC,2022-03-18,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2022-08-16,Dividend/Bonus Issue,0.3
+Naturgy,NTGY.MC,2022-11-16,Dividend/Bonus Issue,0.4
+Naturgy,NTGY.MC,2023-03-31,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2023-08-03,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2023-11-03,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2024-04-05,Dividend/Bonus Issue,0.4
+Naturgy,NTGY.MC,2024-07-30,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2024-11-04,Dividend/Bonus Issue,0.5
+Naturgy,NTGY.MC,2025-04-07,Dividend/Bonus Issue,0.6
+Naturgy,NTGY.MC,2025-07-28,Dividend/Bonus Issue,0.6
+Naturgy,NTGY.MC,2025-11-03,Dividend/Bonus Issue,0.6
+Red Eléctrica de España,RED.MC,2010-01-04,Dividend/Bonus Issue,0.127875
+Red Eléctrica de España,RED.MC,2010-07-01,Dividend/Bonus Issue,0.24165
+Red Eléctrica de España,RED.MC,2011-01-03,Dividend/Bonus Issue,0.14705
+Red Eléctrica de España,RED.MC,2011-07-01,Dividend/Bonus Issue,0.321725
+Red Eléctrica de España,RED.MC,2012-01-02,Dividend/Bonus Issue,0.1691
+Red Eléctrica de España,RED.MC,2012-07-02,Dividend/Bonus Issue,0.384
+Red Eléctrica de España,RED.MC,2013-01-02,Dividend/Bonus Issue,0.1691
+Red Eléctrica de España,RED.MC,2013-07-01,Dividend/Bonus Issue,0.422175
+Red Eléctrica de España,RED.MC,2014-01-02,Dividend/Bonus Issue,0.180925
+Red Eléctrica de España,RED.MC,2014-07-01,Dividend/Bonus Issue,0.454625
+Red Eléctrica de España,RED.MC,2015-01-02,Dividend/Bonus Issue,0.208075
+Red Eléctrica de España,RED.MC,2015-07-01,Dividend/Bonus Issue,0.541925
+Red Eléctrica de España,RED.MC,2016-01-04,Dividend/Bonus Issue,0.22265
+Red Eléctrica de España,RED.MC,2016-06-28,Dividend/Bonus Issue,0.57985
+Red Eléctrica de España,RED.MC,2016-07-11,Stock Split,4.0
+Red Eléctrica de España,RED.MC,2017-01-03,Dividend/Bonus Issue,0.2382
+Red Eléctrica de España,RED.MC,2017-06-29,Dividend/Bonus Issue,0.6205
+Red Eléctrica de España,RED.MC,2018-01-03,Dividend/Bonus Issue,0.2549
+Red Eléctrica de España,RED.MC,2018-06-28,Dividend/Bonus Issue,0.6639
+Red Eléctrica de España,RED.MC,2019-01-04,Dividend/Bonus Issue,0.2727
+Red Eléctrica de España,RED.MC,2019-06-27,Dividend/Bonus Issue,0.7104
+Red Eléctrica de España,RED.MC,2020-01-03,Dividend/Bonus Issue,0.2727
+Red Eléctrica de España,RED.MC,2020-06-29,Dividend/Bonus Issue,0.7792
+Red Eléctrica de España,RED.MC,2021-01-05,Dividend/Bonus Issue,0.2727
+Red Eléctrica de España,RED.MC,2021-06-30,Dividend/Bonus Issue,0.7273
+Red Eléctrica de España,RED.MC,2022-01-05,Dividend/Bonus Issue,0.2727
+Red Eléctrica de España,RED.MC,2022-06-29,Dividend/Bonus Issue,0.7273
+Red Eléctrica de España,RED.MC,2023-01-05,Dividend/Bonus Issue,0.2727
+Red Eléctrica de España,RED.MC,2023-06-29,Dividend/Bonus Issue,0.7273
+Red Eléctrica de España,RED.MC,2024-01-03,Dividend/Bonus Issue,0.2727
+Red Eléctrica de España,RED.MC,2024-06-27,Dividend/Bonus Issue,0.7273
+Red Eléctrica de España,RED.MC,2025-01-03,Dividend/Bonus Issue,0.2
+Red Eléctrica de España,RED.MC,2025-07-04,Dividend/Bonus Issue,0.6
+Red Eléctrica de España,RED.MC,2026-01-05,Dividend/Bonus Issue,0.2
+Repsol,REP.MC,2010-07-08,Dividend/Bonus Issue,0.425
+Repsol,REP.MC,2011-01-13,Dividend/Bonus Issue,0.525
+Repsol,REP.MC,2011-07-07,Dividend/Bonus Issue,0.525
+Repsol,REP.MC,2012-01-10,Dividend/Bonus Issue,0.5775
+Repsol,REP.MC,2012-06-21,Dividend/Bonus Issue,0.545
+Repsol,REP.MC,2012-12-27,Dividend/Bonus Issue,0.473
+Repsol,REP.MC,2013-06-20,Dividend/Bonus Issue,0.485
+Repsol,REP.MC,2013-12-23,Dividend/Bonus Issue,0.477
+Repsol,REP.MC,2014-06-06,Dividend/Bonus Issue,1.0
+Repsol,REP.MC,2014-06-19,Dividend/Bonus Issue,0.485
+Repsol,REP.MC,2014-12-22,Dividend/Bonus Issue,0.472
+Repsol,REP.MC,2015-06-18,Dividend/Bonus Issue,0.484
+Repsol,REP.MC,2015-12-21,Dividend/Bonus Issue,0.466
+Repsol,REP.MC,2016-06-16,Dividend/Bonus Issue,0.292
+Repsol,REP.MC,2016-12-19,Dividend/Bonus Issue,0.335
+Repsol,REP.MC,2017-06-12,Dividend/Bonus Issue,0.426
+Repsol,REP.MC,2017-12-18,Dividend/Bonus Issue,0.388
+Repsol,REP.MC,2018-06-18,Dividend/Bonus Issue,0.485
+Repsol,REP.MC,2018-12-24,Dividend/Bonus Issue,0.411
+Repsol,REP.MC,2019-06-17,Dividend/Bonus Issue,0.505
+Repsol,REP.MC,2019-12-17,Dividend/Bonus Issue,0.424
+Repsol,REP.MC,2020-06-16,Dividend/Bonus Issue,0.492
+Repsol,REP.MC,2020-12-17,Dividend/Bonus Issue,0.288
+Repsol,REP.MC,2021-07-05,Dividend/Bonus Issue,0.3
+Repsol,REP.MC,2022-01-07,Dividend/Bonus Issue,0.3
+Repsol,REP.MC,2022-07-05,Dividend/Bonus Issue,0.33
+Repsol,REP.MC,2023-01-09,Dividend/Bonus Issue,0.35
+Repsol,REP.MC,2023-07-04,Dividend/Bonus Issue,0.35
+Repsol,REP.MC,2024-01-09,Dividend/Bonus Issue,0.4
+Repsol,REP.MC,2024-07-04,Dividend/Bonus Issue,0.5
+Repsol,REP.MC,2025-01-10,Dividend/Bonus Issue,0.475
+Repsol,REP.MC,2025-07-04,Dividend/Bonus Issue,0.5
+Repsol,REP.MC,2026-01-12,Dividend/Bonus Issue,0.5
+Telefónica,TEF.MC,2010-05-11,Dividend/Bonus Issue,0.642638
+Telefónica,TEF.MC,2010-11-08,Dividend/Bonus Issue,0.642638
+Telefónica,TEF.MC,2011-05-06,Dividend/Bonus Issue,0.741505
+Telefónica,TEF.MC,2011-11-07,Dividend/Bonus Issue,0.761279
+Telefónica,TEF.MC,2012-05-18,Dividend/Bonus Issue,0.805769
+Telefónica,TEF.MC,2013-11-06,Dividend/Bonus Issue,0.346036
+Telefónica,TEF.MC,2014-05-07,Dividend/Bonus Issue,0.39547
+Telefónica,TEF.MC,2014-11-19,Dividend/Bonus Issue,0.332194
+Telefónica,TEF.MC,2015-05-12,Dividend/Bonus Issue,0.4
+Telefónica,TEF.MC,2015-11-18,Dividend/Bonus Issue,0.345
+Telefónica,TEF.MC,2016-05-16,Dividend/Bonus Issue,0.4
+Telefónica,TEF.MC,2016-11-15,Dividend/Bonus Issue,0.34
+Telefónica,TEF.MC,2017-06-14,Dividend/Bonus Issue,0.2
+Telefónica,TEF.MC,2017-12-12,Dividend/Bonus Issue,0.2
+Telefónica,TEF.MC,2018-06-13,Dividend/Bonus Issue,0.2
+Telefónica,TEF.MC,2018-12-18,Dividend/Bonus Issue,0.2
+Telefónica,TEF.MC,2019-06-18,Dividend/Bonus Issue,0.2
+Telefónica,TEF.MC,2019-12-17,Dividend/Bonus Issue,0.2
+Telefónica,TEF.MC,2020-06-17,Dividend/Bonus Issue,0.193
+Telefónica,TEF.MC,2020-12-11,Dividend/Bonus Issue,0.194
+Telefónica,TEF.MC,2021-06-01,Dividend/Bonus Issue,0.198
+Telefónica,TEF.MC,2021-12-01,Dividend/Bonus Issue,0.148
+Telefónica,TEF.MC,2022-06-01,Dividend/Bonus Issue,0.148
+Telefónica,TEF.MC,2022-12-13,Dividend/Bonus Issue,0.15
+Telefónica,TEF.MC,2023-06-13,Dividend/Bonus Issue,0.15
+Telefónica,TEF.MC,2023-12-12,Dividend/Bonus Issue,0.15
+Telefónica,TEF.MC,2024-06-18,Dividend/Bonus Issue,0.15
+Telefónica,TEF.MC,2024-12-17,Dividend/Bonus Issue,0.15
+Telefónica,TEF.MC,2025-06-17,Dividend/Bonus Issue,0.15
+Telefónica,TEF.MC,2025-12-16,Dividend/Bonus Issue,0.15

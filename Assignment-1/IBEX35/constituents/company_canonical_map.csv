@@ -1,0 +1,142 @@
+RawName,CanonicalName,BaseTicker,Tradable
+
+ACS,ACS,ACS.MC,YES
+AENA,Aena,AENA.MC,YES
+Aena,Aena,AENA.MC,YES
+
+Abengoa,Abengoa,ABG.MC,NO
+
+Abertis,Abertis,ABE.MC,NO
+
+Acciona,Acciona,ANA.MC,YES
+Acciona Energía,Acciona Energía,ANE.MC,YES
+
+Acerinox,Acerinox,ACX.MC,YES
+
+Almirall,Almirall,ALM.MC,YES
+
+Amadeus IT Group,Amadeus IT Group,AMS.MC,YES
+Amadeus IT Holding,Amadeus IT Group,AMS.MC,YES
+
+Arcelor Mittal,ArcelorMittal,MTS.MC,YES
+ArcelorMittal,ArcelorMittal,MTS.MC,YES
+
+BBVA,BBVA,BBVA.MC,YES
+
+BME,BME,BME.MC,NO
+
+Banco Popular,Banco Popular,POP.MC,NO
+
+Banco Sabadell,Banco Sabadell,SAB.MC,YES
+
+Banco Santander,Banco Santander,SAN.MC,YES
+Santander,Banco Santander,SAN.MC,YES
+
+Banesto,Banesto,BTO.MC,NO
+
+Bankia,Bankia,BKIA.MC,NO
+
+Bankinter,Bankinter,BKT.MC,YES
+
+CIE Automotive,CIE Automotive,CIE.MC,YES
+
+CaixaBank,CaixaBank,CABK.MC,YES
+Caixabank,CaixaBank,CABK.MC,YES
+
+Cellmex,Cellnex Telecom,CLNX.MC,YES
+Cellnex,Cellnex Telecom,CLNX.MC,YES
+Cellnex Telecom,Cellnex Telecom,CLNX.MC,YES
+
+Criteria CaixaCorp,CriteriaCaixa,CRI.MC,YES
+
+Dia,Dia,DIA.MC,YES
+
+ENAIRE,ENAIRE,,NO
+
+ENCE,Ence,ENC.MC,YES
+Ence,Ence,ENC.MC,YES
+
+Ebro Foods,Ebro Foods,EBRO.MC,YES
+Ebro Puleva,Ebro Foods,EBRO.MC,YES
+
+Enagás,Enagás,ENG.MC,YES
+
+Endesa,Endesa,ELE.MC,YES
+
+FCC,FCC,FCC.MC,YES
+
+Ferrovial,Ferrovial,FER.MC,YES
+
+Fluidra,Fluidra,FDR.MC,YES
+
+Gamesa,Gamesa,GAM.MC,NO
+Siemens Gamesa,Siemens Gamesa Renewable Energy,SGRE.MC,YES
+Siemens Gamesa Renewable Energy,Siemens Gamesa Renewable Energy,SGRE.MC,YES
+
+Gas Natural,Naturgy,NTGY.MC,YES
+Naturgy,Naturgy,NTGY.MC,YES
+
+Grifols,Grifols,GRF.MC,YES
+
+IAG,International Airlines Group,IAG.MC,YES
+International Airlines Group,International Airlines Group,IAG.MC,YES
+International Airlines Group (Iberia & British Airways),International Airlines Group,IAG.MC,YES
+International Airlines Group (Iberia and British Airways),International Airlines Group,IAG.MC,YES
+International Airlines Group (Iberia/British Airways/Aer Lingus),International Airlines Group,IAG.MC,YES
+Iberia,International Airlines Group,IAG.MC,YES
+
+Iberdrola,Iberdrola,IBE.MC,YES
+Iberdrola Renovables,Iberdrola,,NO
+
+Inditex,Inditex,ITX.MC,YES
+
+Indra,Indra Sistemas,IDR.MC,YES
+Indra Sistemas,Indra Sistemas,IDR.MC,YES
+
+Inmobiliaria Colonial,Inmobiliaria Colonial,COL.MC,YES
+Inmobiliaria Colonial (entering index 18 june 2017),Inmobiliaria Colonial,COL.MC,YES
+
+Jazztel,Jazztel,JAZ.MC,NO
+
+Laboratorios Rovi,Laboratorios Rovi,ROVI.MC,YES
+Laboratorios Rovi[es],Laboratorios Rovi,ROVI.MC,YES
+
+Logista,Logista,LOG.MC,YES
+
+Mapfre,Mapfre,MAP.MC,YES
+
+Mediaset España,Mediaset España Comunicación,TL5.MC,YES
+Mediaset España Comunicación,Mediaset España Comunicación,TL5.MC,YES
+Telecinco,Mediaset España Comunicación,TL5.MC,YES
+
+Meliá Hoteles,Meliá Hotels International,MEL.MC,YES
+Meliá Hotels,Meliá Hotels International,MEL.MC,YES
+
+Merlin Properties,Merlin Properties,MRL.MC,YES
+
+Obrascón Huarte Lain,OHL,OHL.MC,YES
+
+PharmaMar,PharmaMar,PHM.MC,YES
+
+Puig,Puig,PUIG.MC,YES
+
+Red Eléctrica,Red Eléctrica de España,REE.MC,YES
+Red Eléctrica de España,Red Eléctrica de España,REE.MC,YES
+Redeia Corporación,Red Eléctrica de España,REE.MC,YES
+
+Repsol,Repsol,REP.MC,YES
+Repsol YPF,Repsol,REP.MC,YES
+
+Sacyr,Sacyr,SCYR.MC,YES
+Sacyr Vallehermoso,Sacyr,SCYR.MC,YES
+
+Solaria,Solaria,SLR.MC,YES
+
+Telefónica,Telefónica,TEF.MC,YES
+
+Técnicas Reunidas,Técnicas Reunidas,TRE.MC,YES
+
+Unicaja,Unicaja Banco,UNI.MC,YES
+
+Viscofan,Viscofan,VIS.MC,YES
+Viscofán,Viscofan,VIS.MC,YES

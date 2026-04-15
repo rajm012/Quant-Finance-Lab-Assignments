@@ -1,0 +1,7 @@
+All Normality Tests
+
+Jarque-Bera Statistic: 2020500.4666330207
+Jarque-Bera p-value: 0.0
+
+Shapiro-Wilk Statistic: 0.9058349511750657
+Shapiro-Wilk p-value: 1.8176625321043366e-104

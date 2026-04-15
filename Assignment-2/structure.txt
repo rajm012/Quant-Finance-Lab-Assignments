@@ -1,0 +1,137 @@
+├── Assignment-2-CFM.pdf
+├── IBEX35
+│   ├── Index.csv
+│   ├── MasterPriceDB.csv
+│   └── results
+│       └── 2010_6_to_2025_12
+│           ├── Acciona.csv
+│           ├── ACS.csv
+│           ├── ArcelorMittal.csv
+│           ├── Banco Sabadell.csv
+│           ├── Banco Santander.csv
+│           ├── Bankinter.csv
+│           ├── BBVA.csv
+│           ├── Enagás.csv
+│           ├── Ferrovial.csv
+│           ├── Grifols.csv
+│           ├── Iberdrola.csv
+│           ├── Inditex.csv
+│           ├── Indra Sistemas.csv
+│           ├── International Airlines Group.csv
+│           ├── Mapfre.csv
+│           ├── Naturgy.csv
+│           ├── Red Eléctrica de España.csv
+│           ├── Repsol.csv
+│           └── Telefónica.csv
+├── IBEX35.csv
+├── Q1.py
+├── Q2.py
+├── Q2-Results
+│   ├── Returns
+│   │   ├── AccionaDailyReturns.png
+│   │   ├── ACSDailyReturns.png
+│   │   ├── ArcelorMittalDailyReturns.png
+│   │   ├── Banco SabadellDailyReturns.png
+│   │   ├── Banco SantanderDailyReturns.png
+│   │   ├── BankinterDailyReturns.png
+│   │   ├── BBVADailyReturns.png
+│   │   ├── EnagásDailyReturns.png
+│   │   ├── FerrovialDailyReturns.png
+│   │   ├── GrifolsDailyReturns.png
+│   │   ├── IberdrolaDailyReturns.png
+│   │   ├── InditexDailyReturns.png
+│   │   ├── Indra SistemasDailyReturns.png
+│   │   ├── International Airlines GroupDailyReturns.png
+│   │   ├── MapfreDailyReturns.png
+│   │   ├── NaturgyDailyReturns.png
+│   │   ├── Red Eléctrica de EspañaDailyReturns.png
+│   │   ├── RepsolDailyReturns.png
+│   │   └── TelefónicaDailyReturns.png
+│   ├── stats.txt
+│   ├── Stocks
+│   │   ├── AccionaStock.png
+│   │   ├── ACSStock.png
+│   │   ├── ArcelorMittalStock.png
+│   │   ├── Banco SabadellStock.png
+│   │   ├── Banco SantanderStock.png
+│   │   ├── BankinterStock.png
+│   │   ├── BBVAStock.png
+│   │   ├── EnagásStock.png
+│   │   ├── FerrovialStock.png
+│   │   ├── GrifolsStock.png
+│   │   ├── IberdrolaStock.png
+│   │   ├── InditexStock.png
+│   │   ├── Indra SistemasStock.png
+│   │   ├── International Airlines GroupStock.png
+│   │   ├── MapfreStock.png
+│   │   ├── NaturgyStock.png
+│   │   ├── Red Eléctrica de EspañaStock.png
+│   │   ├── RepsolStock.png
+│   │   └── TelefónicaStock.png
+│   └── tailEvents.csv
+├── Q3.py
+├── Q3-Results
+│   ├── All
+│   │   ├── allHist.png
+│   │   ├── allNorms.txt
+│   │   └── allQQ.png
+│   ├── Histograms
+│   │   ├── AccionaHist.png
+│   │   ├── ACSHist.png
+│   │   ├── ArcelorMittalHist.png
+│   │   ├── Banco SabadellHist.png
+│   │   ├── Banco SantanderHist.png
+│   │   ├── BankinterHist.png
+│   │   ├── BBVAHist.png
+│   │   ├── EnagásHist.png
+│   │   ├── FerrovialHist.png
+│   │   ├── GrifolsHist.png
+│   │   ├── IberdrolaHist.png
+│   │   ├── InditexHist.png
+│   │   ├── Indra SistemasHist.png
+│   │   ├── International Airlines GroupHist.png
+│   │   ├── MapfreHist.png
+│   │   ├── NaturgyHist.png
+│   │   ├── Red Eléctrica de EspañaHist.png
+│   │   ├── RepsolHist.png
+│   │   └── TelefónicaHist.png
+│   ├── Individual.csv
+│   └── QQPlots
+│       ├── AccionaQQ.png
+│       ├── ACSQQ.png
+│       ├── ArcelorMittalQQ.png
+│       ├── Banco SabadellQQ.png
+│       ├── Banco SantanderQQ.png
+│       ├── BankinterQQ.png
+│       ├── BBVAQQ.png
+│       ├── EnagásQQ.png
+│       ├── FerrovialQQ.png
+│       ├── GrifolsQQ.png
+│       ├── IberdrolaQQ.png
+│       ├── InditexQQ.png
+│       ├── Indra SistemasQQ.png
+│       ├── International Airlines GroupQQ.png
+│       ├── MapfreQQ.png
+│       ├── NaturgyQQ.png
+│       ├── Red Eléctrica de EspañaQQ.png
+│       ├── RepsolQQ.png
+│       └── TelefónicaQQ.png
+├── Q4.py
+├── Q4-Results
+│   ├── CorrHeatmap.png
+│   ├── CorrMatrix.csv
+│   └── CorrPairs.txt
+├── Q5.py
+├── Q5-Results
+│   ├── randPortfolios.csv
+│   └── RiskvsReturn.png
+├── Q6.py
+├── Q6-Results
+│   ├── effFront.png
+│   └── minVarWgt.csv
+├── Q7.py
+├── Report.pdf
+├── SplitsDivCombo.csv
+└── structure.txt
+
+14 directories, 123 files

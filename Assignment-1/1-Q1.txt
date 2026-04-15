@@ -1,0 +1,22 @@
+#. NSE Nifty 50: Last trading day of March and September by using six months of data ending on Jan'31 and July'31 and informs in a month advance before changing the same
+
+#. BSE Sensex: Takes effect in June and December, The changes usually take effect on the Monday following the third Friday of June and December and informs a month before
+
+#. IBEX 35(Spain): Twice a year, Composition in June and December and take effect on the first trading day following the third Friday of June and December.
+
+#. OMXS 30(Sweden): Twice a year, effective on the first trading day of January and July. The changes go into effect at market open on the first trading day in January and July. Results are announced at least five trading days prior to the effective date.
+
+#. ATX(Austria): Twice a year, in March and September, max of three stocks can be changed in the index composition and it's index of 20 stocks
+
+I will choose the IBEX-35, Spain, Madrid.
+1. Yes, Twice a year in June and December.
+    Sectors:
+        Financials(Banks and Insurance): 30-35% of index
+        Utilities and Energy: 20-25% of index
+        Industries and Infrastructures: 15-20% of index
+        Consumer and Retail: 10-15% of index
+        Telecom and Media: 5-8% of index
+        Pharma and health: 3-4% of index
+
+
+    So, Financial sector is the strongest follwed by Utilities and Energy

@@ -1,0 +1,24 @@
+Most Correlated Pairs
+Stock                    Stock                  
+Banco Santander          BBVA                       0.874547
+BBVA                     Banco Santander            0.874547
+Banco Sabadell           Banco Santander            0.716823
+Banco Santander          Banco Sabadell             0.716823
+BBVA                     Banco Sabadell             0.697928
+Banco Sabadell           BBVA                       0.697928
+Red Eléctrica de España  Enagás                     0.679870
+Enagás                   Red Eléctrica de España    0.679870
+Banco Santander          Mapfre                     0.673576
+Mapfre                   Banco Santander            0.673576
+
+Least Correlated Pairs
+Stock           Stock         
+Grifols         Indra Sistemas    0.197587
+Indra Sistemas  Grifols           0.197587
+Grifols         Banco Sabadell    0.190992
+Banco Sabadell  Grifols           0.190992
+ArcelorMittal   Grifols           0.186192
+Grifols         ArcelorMittal     0.186192
+Repsol          Grifols           0.172171
+Grifols         Bankinter         0.155747
+Bankinter       Grifols           0.155747

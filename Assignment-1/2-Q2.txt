@@ -1,0 +1,36 @@
+
+In Nifty or Indian Index major sector is services and Finacials which is similar to the index choosen by me IBEX-35 as it also have majors in financials followed by energy as seen in indian indices.
+
+
+Why not other two?
+    - OMXS: has export major sector as dominnat
+    - ATX: too small to be compared
+
+Indian Indices: 
+    - Financials (Banks & NBFCs)
+    - Energy & Utilities
+    - Large domestic consumption
+    - Moderate export exposure (IT, pharma)
+
+IBEX-35:
+    - Financials (Banks)
+    - Utilities & Energy
+    - Infrastructure-heavy
+    - Largely domestic + regional (EU/LATAM) exposure
+
+OMXS-30:
+    - Industrials & Manufacturing
+    - Export-oriented global companies
+    - Strong exposure to global trade cycles
+    - High sensitivity to USD/EUR exchange rates
+    - Technology-enabled industrials, automation, engineering
+
+ATX-20:
+    - Financials (highly concentrated in banks)
+    - Energy & Utilities (oil, gas, power)
+    - Significant exposure to Central & Eastern Europe
+    - Smaller index with few dominant stocks
+
+
+So both IBEX-35 and ATX-20 resonates with Indian indices but we will go for IBEX-35 as it has comparable volume wrt Indian indices.
+

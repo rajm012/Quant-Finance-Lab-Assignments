@@ -1,0 +1,301 @@
+
+Banks & Financial Services:
+   1. BBVA.MC (Banco Bilbao Vizcaya Argentaria)
+      - Status: Active, leading Spanish bank
+      - Key events: Survived 2008 crisis, expanded internationally, digital transformation
+
+   2. SAN.MC (Banco Santander)
+      - Status: Active, largest Spanish bank by market cap
+      - Key events: Global expansion, acquired Sovereign Bancorp (US), digital bank Openbank
+
+   3. CABK.MC (CaixaBank)
+      - Status: Active
+      - Key events: Merger with Bankia (2021), became Spain's largest domestic bank
+
+   4. SAB.MC (Banco Sabadell)
+      - Status: Active
+      - Key events: Acquired TSB (UK) 2015, sold TSB 2022, merger talks with BBVA (2024)
+
+   5. BKT.MC (Bankinter)
+      - Status: Active
+      - Key events: Strong digital banking focus, stable performer
+
+   6. UNI.MC (Unicaja Banco)
+      - Status: Active
+      - Key events: Merger with Liberbank (2021), 5th largest Spanish bank
+
+   7. MAP.MC (Mapfre)
+      - Status: Active - Insurance leader
+      - Key events: International expansion, Latin America focus
+
+   8. BME.MC (Bolsas y Mercados Españoles)
+      - Status: Active (now part of SIX Group)
+      - Key events: Acquired by SIX Group (2020) for €2.8 billion
+
+Infrastructure & Construction:
+   9. ACS.MC (ACS Group)
+      - Status: Active, world's largest infrastructure contractor
+      - Key events: Acquired Hochtief (Germany), major international projects
+
+   10. FER.MC (Ferrovial)
+      - Status: Active
+      - Key events: Heathrow Airport operator, moved headquarters to Netherlands (2023)
+
+   11. FCC.MC (Fomento de Construcciones y Contratas)
+      - Status: Active (controlled by Carlos Slim since 2014)
+      - Key events: Restructuring, international waste management focus
+
+   12. OHL.MC (Obrascón Huarte Lain)
+      - Status: Active (renamed OHLA in 2021)
+      - Key events: Financial restructuring (2018), sold assets, refocused
+
+   13. SCYR.MC (Sacyr)
+      - Status: Active
+      - Key events: Known for Panama Canal expansion dispute, infrastructure focus
+
+   14. ACCIONA Group (ANA.MC)
+      - Status: Active
+      - Key events: Major renewable energy player, sustainable infrastructure
+
+Energy & Utilities:
+   15. IBE.MC (Iberdrola)
+      - Status: Active, global renewable energy leader
+      - Key events: Major international expansion (US, UK, Brazil), renewable focus
+
+   16. ELE.MC (Endesa)
+      - Status: Active (Enel-controlled)
+      - Key events: Renewable transition, digital transformation
+
+   17. NTGY.MC (Naturgy)
+      - Status: Active (formerly Gas Natural Fenosa)
+      - Key events: Rebranded (2018), shareholder battles, renewable transition
+
+   18. REE.MC (Red Eléctrica)
+      - Status: Active
+      - Key events: National grid operator, renewable integration focus
+
+   19. ENG.MC (Enagás)
+      - Status: Active
+      - Key events: Gas TSO, hydrogen infrastructure development
+
+   20. REP.MC (Repsol)
+      - Status: Active
+      - Key events: Energy transition strategy, renewable fuels, circular economy
+
+Technology & Industrial:
+   21. AMS.MC (Amadeus IT Group)
+      - Status: Active, global travel tech leader
+      - Key events: Recovered post-pandemic, technology modernization
+
+   22. ITX.MC (Inditex)
+      - Status: Active, world's largest fashion retailer
+      - Key events: Digital transformation, founder Amancio Ortega among world's richest
+
+   23. IDR.MC (Indra Sistemas)
+      - Status: Active
+      - Key events: Defense and technology, restructuring (2020-2022)
+
+   24. TEF.MC (Telefónica)
+      - Status: Active
+      - Key events: Debt reduction, Latin America focus, fiber expansion
+
+   25. CLNX.MC (Cellnex Telecom)
+      - Status: Active
+      - Key events: Massive European tower acquisition spree (2015-2021), high debt
+
+   26. TL5.MC (Mediaset España)
+      - Status: Active (Telecinco)
+      - Key events: Merger with Italian Mediaset attempted, content streaming shift
+
+Tourism & Transportation:
+   27. IAG.MC (International Airlines Group)
+      - Status: Active (parent of Iberia, British Airways, Vueling)
+      - Key events: Formed 2011, pandemic recovery, sustainability initiatives
+
+   28. AENA.MC (Aena)
+      - Status: Active (world's largest airport operator by passenger count)
+      - Key events: IPO (2015), pandemic impact, international expansion
+
+   29. MEL.MC (Meliá Hotels)
+      - Status: Active
+      - Key events: Pandemic recovery, luxury and sustainable tourism focus
+
+Healthcare & Pharma:
+   30. GRF.MC (Grifols)
+      - Status: Active (plasma derivatives leader)
+      - Key events: Acquisition of Talecris (2011), debt concerns (2023-2024)
+
+   31. ROVI.MC (Laboratorios Rovi)
+      - Status: Active
+      - Key events: COVID vaccine manufacturing for Moderna, growth phase
+
+   32. PHM.MC (PharmaMar)
+      - Status: Active (biopharmaceutical)
+      - Key events: Oncology drug development, COVID-19 research
+
+Real Estate:
+   33. MRL.MC (Merlin Properties)
+      - Status: Active (Spain's largest REIT)
+      - Key events: Formed 2014, major acquisitions, office and logistics focus
+
+   34. COL.MC (Inmobiliaria Colonial)
+      - Status: Active (prime office REIT)
+      - Key events: Financial restructuring (2011-2013), prime Barcelona/Madrid offices
+
+Consumer & Retail:
+   35. VIS.MC (Viscofan)
+      - Status: Active (world leader in sausage casings)
+      - Key events: Consistent growth, international expansion
+
+   36. EBRO.MC (Ebro Foods)
+      - Status: Active (rice and pasta leader)
+      - Key events: Renamed from Ebro Puleva, international brands
+
+   37. DIA.MC (Distribuidora Internacional de Alimentación)
+      - Status: Active (struggling)
+      - Key events: Russian ownership (LetterOne), financial difficulties, restructuring
+
+Automotive & Industrial:
+   38. ACX.MC (Acerinox)
+      - Status: Active (stainless steel producer)
+      - Key events: Cyclical performance, energy cost challenges
+
+   39. CIE.MC (CIE Automotive)
+      - Status: Active (auto components)
+      - Key events: International growth, electric vehicle components
+
+   40. TRE.MC (Técnicas Reunidas)
+      - Status: Active (engineering and construction)
+      - Key events: Oil & gas projects, Middle East focus
+
+
+Banking Sector Casualties:
+   41. POP.MC (Banco Popular)
+      - Status: DELISTED/ACQUIRED (2017)
+      - Fate: Resolved by EU Single Resolution Board, sold to Santander for €1
+      - Reason: Massive NPLs, liquidity crisis
+
+   42. BTO.MC (Banesto)
+      - Status: DELISTED/ACQUIRED (2013)
+      - Fate: Fully integrated into Santander
+      - Reason: Santander already owned 89.74%, simplified structure
+
+   43. BKIA.MC (Bankia)
+      - Status: DELISTED/MERGED (2021)
+      - Fate: Merged with CaixaBank
+      - Reason: Created from troubled cajas, rescued in 2012, finally merged
+
+Renewable Energy Evolution:
+   44. GAM.MC (Gamesa)
+      - Status: DELISTED/MERGED (2017)
+      - Fate: Merged with Siemens Wind Power to form Siemens Gamesa
+      - Reason: Industry consolidation, SGRE listed separately
+
+   45. SGRE.MC (Siemens Gamesa Renewable Energy)
+      - Status: DELISTED/ACQUIRED (2023)
+      - Fate: Fully acquired by Siemens Energy and delisted
+      - Reason: Integration into parent company, operational challenges
+
+Corporate Failures:
+   46. ABG.MC (Abengoa)
+      - Status: BANKRUPT/DELISTED (2021)
+      - Fate: Pre-insolvency (2015), restructuring, delisted
+      - Reason: Massive debt, failed diversification
+
+   47. ABE.MC (Abertis)
+      - Status: DELISTED/ACQUIRED (2018)
+      - Fate: Acquired by ACS/Hochtief and Atlantia joint venture
+      - Reason: Bid war between ACS and Atlantia
+
+Telecommunications Restructuring:
+   48. JAZ.MC (Jazztel)
+      - Status: DELISTED/ACQUIRED (2015)
+      - Fate: Acquired by Orange España for €3.4 billion
+      - Reason: Market consolidation
+
+Corporate Restructuring:
+   49. FDR.MC (Fluidra)
+      - Status: Active but note - merged with Zodiac in 2018, still listed
+      - Key: Created world's largest pool equipment company
+
+   50. LOG.MC (Logista)
+      - Status: Active (spun off from Imperial Tobacco in 2008)
+
+   51. ENC.MC (ENCE)
+      - Status: Active but restructured
+      - Key: Moved from pulp to bioenergy, new management
+
+RECENT IPOs & NEW LISTINGS:
+   52. PUIG.MC (Puig)
+      - Status: NEW IPO (2024)
+      - Details: Fashion and fragrance group, family-owned going public
+
+   53. ANE.MC (Acciona Energía)
+      - Status: SPIN-OFF IPO (2021)
+      - Details: Spun off from Acciona, renewable pure-play
+
+   54. ALM.MC (Almirall)
+      - Status: Active but transformed
+      - Key: Shifted from generics to dermatology specialty
+
+   55. SLR.MC (Solaria)
+      - Status: Active (solar PV pure-play)
+      - Key: One of best performers 2020-2022, solar boom
+
+   56. MTS.MC (ArcelorMittal)
+      - Note: Actually global company (ArcelorMittal), Spanish operations minor
+      - Status: Active globally
+
+
+Sector Transformations:
+   1. Banking Consolidation: 7 cajas/banks → 4 major groups
+   2. Renewable Energy Boom: Spain became EU renewable leader
+   3. Tourism Resilience: Despite pandemic, strong recovery
+   4. Digital Transformation: All sectors affected
+   5. Internationalization: Most large caps earn >50% abroad
+
+Market Structure Changes:
+   - IBEX 35 composition changed significantly
+   - Foreign ownership increased (often >50% in blue chips)
+   - ESG factors became critical
+   - Pandemic accelerated digitalization
+
+Investment Themes:
+   1. Winners: Renewables, digital infrastructure, luxury
+   2. Challenges: Traditional retail, legacy industries
+   3. Turnarounds: Several restructuring successes (OHLA, FCC)
+   4. Global Champions: Inditex, Iberdrola, Amadeus, Ferrovial
+
+Of the 56 companies:
+   - 38 remain active and significant
+   - 8 were acquired/merged (mostly banking and energy)
+   - 4 went bankrupt/delisted (notably Abengoa)
+   - 6 underwent major transformations
+   - Multiple new IPOs/spin-offs created fresh listings
+
+
+=============================================================================================================================================
+=============================================================================================================================================
+=============================================================================================================================================
+=============================================================================================================================================
+=============================================================================================================================================
+
+
+
+1. NSE Nifty 50: Last trading day of March and September by using six months of data ending on Jan'31 and July'31 and informs in a month advance before changing the same
+
+2. BSE Sensex: Takes effect in June and December, The changes usually take effect on the Monday following the third Friday of June and December and informs a month before
+
+3. IBEX 35(Spain): Twice a year, Composition in June and December and take effect on the first trading day following the third Friday of June and December.
+
+4. OMXS 30(Sweden): Twice a year, effective on the first trading day of January and July. The changes go into effect at market open on the first trading day in January and July. Results are announced at least five trading days prior to the effective date.
+
+5. ATX(Austria): Twice a year, in March and September, max of three stocks can be changed in the index composition and it's index of 20 stocks
+
+I will choose the IBEX-35, Spain, Madrid.
+
+=================================================
+1. Yes, Twice a year in June and December.
+   Financials(Banks and Insurance), Utilities, Energy, Telecommunications, Infrastructure
+
+
