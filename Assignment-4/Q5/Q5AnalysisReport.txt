@@ -1,0 +1,55 @@
+                        Q5 Analysis
+============================================================
+
+(a) Data observations
+- Stocks with fat tails (kurtosis > 3): 19
+- Positive skew count: 11, Negative skew count: 8
+- Top 5 fat-tail stocks by kurtosis:
+  * Bankinter: 126.355
+  * ACS: 16.810
+  * International Airlines Group: 13.316
+  * Telefónica: 12.345
+  * Naturgy: 11.325
+- Most positively skewed stocks:
+  * Bankinter: 5.278
+  * Mapfre: 0.820
+  * ACS: 0.643
+- Most negatively skewed stocks:
+  * Enagás: -0.629
+  * International Airlines Group: -0.414
+  * Iberdrola: -0.371
+- Sector-level volatility pattern (higher means more unstable):
+  * Materials: 0.0283
+  * Transport: 0.0276
+  * Technology: 0.0217
+  * Energy: 0.0207
+  * Financials: 0.0197
+  * Telecom: 0.0172
+  * Healthcare: 0.0165
+  * Consumer: 0.0162
+  * Industrials: 0.0159
+  * Utilities: 0.0124
+
+(b) Model comparison ranking
+- Ranked by combined score (mu up, SR up, sigma down, CVaR down):
+  * Model 2 (budget + cardinality): totRank=10.0, mu=0.147170, sigma=0.185346, SR=0.4703, CVaR99=0.038776
+  * Model 2 (unconstrained): totRank=12.0, mu=0.142687, sigma=0.182363, SR=0.4534, CVaR99=0.038685
+  * Model 3 (budget + cardinality): totRank=12.0, mu=0.140346, sigma=0.175499, SR=0.4578, CVaR99=0.039991
+  * Model 3 (unconstrained): totRank=14.0, mu=0.140302, sigma=0.175519, SR=0.4575, CVaR99=0.039991
+  * Model 1 (unconstrained): totRank=16.0, mu=0.135729, sigma=0.174926, SR=0.4329, CVaR99=0.040280
+  * Model 1 (budget + cardinality): totRank=20.0, mu=0.135715, sigma=0.174926, SR=0.4328, CVaR99=0.040281
+
+(c) Effect of cardinality K=ceil(N/3)
+  * Model 1: DeltaMU=-0.000014, DeltaSigma=0.000000, DeltaSR=-0.0001, DeltaCVaR99=0.000001
+  * Model 2: DeltaMU=0.004483, DeltaSigma=0.002982, DeltaSR=0.0169, DeltaCVaR99=0.000091
+  * Model 3: DeltaMU=0.000043, DeltaSigma=-0.000020, DeltaSR=0.0003, DeltaCVaR99=0.000001
+- Interpretation cue: positive DeltaCVaR99 indicates worse tail risk after cardinality.
+
+(d) Recommended model
+- Recommended variant: Model 2 (unconstrained)
+  * Best aggregate rank across mu, sigma, SR, and CVaR99: Model 2 (unconstrained).
+  * Coherence and robustness: CVaR-based methods are tail-aware and coherent.
+  * Practicality: cardinality variants reduce holdings and can lower turnover burden.
+  * Empirical fit: recommendation prioritizes lower CVaR and stable Sharpe under training data.
+
+
